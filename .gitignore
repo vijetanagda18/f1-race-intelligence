@@ -1,0 +1,21 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Flask instance and local configuration
+instance/
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
