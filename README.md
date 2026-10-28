@@ -116,6 +116,6 @@ The exact programming languages, libraries, and frameworks used in the web appli
 4. Watch the [Project Demonstration Video](https://drive.google.com/file/d/15eI2hx3_APTkmxdC1usUjLN9-OaTAr51/view?usp=drivesdk).
 5. Browse the GitHub repository to explore the source code and supporting project files.
 
-## Project Objectives
+
 
 - Vijeta Nagda
